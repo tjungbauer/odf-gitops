@@ -8,8 +8,6 @@
 
   ## Description
 
-  Deploys Cluster Branding such as custom Login Page or Logo etc.
-
 This "wrapper" Helm Chart is used to deploy and configure OpenShift Data Foundation using a GitOps approach.
 It mainly uses the Chart [openshift-data-foundation](https://github.com/tjungbauer/helm-charts/tree/main/charts/openshift-data-foundation) which takes care to
 
